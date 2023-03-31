@@ -1,3 +1,0 @@
-ToolSet: Ubuntu 22.04.2 LTS (local)Options: 
-
-Options:-DCMAKE_MAKE_PROGRAM=/usr/bin/make

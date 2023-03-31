@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/shelllab.dir/tsh.c.o CMakeFiles/shelllab.dir/csapp.c.o -o shelllab 

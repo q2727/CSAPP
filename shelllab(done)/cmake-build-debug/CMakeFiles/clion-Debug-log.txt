@@ -1,4 +1,0 @@
-C:\WINDOWS\System32\wsl.exe --distribution Ubuntu-22.04 --exec /bin/bash -c "export PATH=\"$PATH:/usr/bin\" && export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/code/shelllab/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G 'CodeBlocks - Unix Makefiles' -S /mnt/d/code/shelllab -B /mnt/d/code/shelllab/cmake-build-debug"
--- Configuring done (0.1s)
--- Generating done (0.3s)
--- Build files have been written to: /mnt/d/code/shelllab/cmake-build-debug
