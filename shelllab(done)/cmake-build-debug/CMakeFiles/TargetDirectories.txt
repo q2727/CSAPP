@@ -1,0 +1,3 @@
+/mnt/d/code/shelllab/cmake-build-debug/CMakeFiles/shelllab.dir
+/mnt/d/code/shelllab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/code/shelllab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
